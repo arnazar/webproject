@@ -182,7 +182,7 @@ jQuery(function($){
     {image : 'template/default/img/3.jpg'},
     {image : 'template/default/img/2.jpg'},
     {image : 'template/default/img/1.jpg'}
-    ]
+      ]
   });
 });
 
